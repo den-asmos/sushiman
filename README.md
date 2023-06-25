@@ -23,5 +23,3 @@
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="40px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" alt="vite" width="40px"/>
 </div>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
